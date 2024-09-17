@@ -11,7 +11,7 @@ The interesting key of the game is a set of best record. By each snake's grows, 
 ```bash
 Install XAMPP -> Start XAMPP -> Start Apache and MySQL
 ```
-![XAMPPStart](https://github.com/nbfaridun/SnakeProject/blob/main/Screenshots/XAMPPStart.png)
+<img src="https://github.com/fn-devX/java-snake-game/blob/main/Screenshots/XAMPPStart.png" />
 
 
 
@@ -19,7 +19,7 @@ Install XAMPP -> Start XAMPP -> Start Apache and MySQL
 ```bash
 Install Inteliij IDEA -> DataBase -> Add DataBase - MySQL
 ```
-![InteliijDB1](https://github.com/nbfaridun/SnakeProject/blob/main/Screenshots/InteliijDB1.png)
+<img src="https://github.com/fn-devX/java-snake-game/blob/main/Screenshots/InteliijDB1.png" />
 
 
 
@@ -27,11 +27,11 @@ Install Inteliij IDEA -> DataBase -> Add DataBase - MySQL
 ```
 Enter Admin's [username and password] for your DatabaseServer
 ```
-![InteliijDB2](https://github.com/nbfaridun/SnakeProject/blob/main/Screenshots/InteliijDB2.png)
+<img src="https://github.com/fn-devX/java-snake-game/blob/main/Screenshots/InteliijDB2.png" />
 
 ## Optional Step
 
-go to -> [Database Control](http://localhost/phpmyadmin/index.php?route=/server/sql) -> paste [SQL Code](https://github.com/nbfaridun/SnakeProject/tree/main/sql)
+go to -> [Database Control](http://localhost/phpmyadmin/index.php?route=/server/sql) -> paste [SQL Code](https://github.com/fn-devX/java-snake-game/tree/main/sql)
 ## 
 
 ### Libraries used
@@ -49,12 +49,9 @@ go to -> [Database Control](http://localhost/phpmyadmin/index.php?route=/server/
 - Score Saving(optional)
 - TopScorers List
 
-> MANY THANKS TO DATABASE && INTELIIJ DEVELOPERS, I SPENT 3 DAYS TO GET WHY I COULD'T CONNECT INTELIIJ TO DATABASE!!!!
-> (крик души)
-
 ### Application Screenshots
-![readme](https://github.com/nbfaridun/SnakeProject/blob/main/Screenshots/readme.png)
-![snakegame](https://github.com/nbfaridun/SnakeProject/blob/main/Screenshots/snakegame.png)
-![setscore](https://github.com/nbfaridun/SnakeProject/blob/main/Screenshots/setscore.png)
-![topscore](https://github.com/nbfaridun/SnakeProject/blob/main/Screenshots/topscore.png)
+![readme](https://github.com/fn-devX/java-snake-game/blob/main/Screenshots/readme.png)
+![snakegame](https://github.com/fn-devX/java-snake-game/blob/main/Screenshots/snakegame.png)
+![setscore](https://github.com/fn-devX/java-snake-game/blob/main/Screenshots/setscore.png)
+![topscore](https://github.com/fn-devX/java-snake-game/blob/main/Screenshots/topscore.png)
 
